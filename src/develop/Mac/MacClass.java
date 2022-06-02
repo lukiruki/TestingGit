@@ -1,2 +1,4 @@
-package develop.Mac;public class MacClass {
+package develop.Mac;
+
+public class MacClass {
 }
