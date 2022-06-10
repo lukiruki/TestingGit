@@ -1,2 +1,4 @@
-package resetting;public class Commit3 {
+package resetting;
+
+public class Commit3 {
 }
